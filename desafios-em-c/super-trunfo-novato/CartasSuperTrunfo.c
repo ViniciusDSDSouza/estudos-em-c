@@ -26,10 +26,10 @@ int main()
     scanf("%c", &estadoCarta1);
 
     printf("Código (número de 01 a 04): ");
-    scanf("%s", &codigoCarta1);
+    scanf("%s", codigoCarta1);
 
     printf("Digite o nome da cidade (Sem espaços em branco)");
-    scanf("%s", &nomeCidadeCarta1);
+    scanf("%s", nomeCidadeCarta1);
 
     printf("População (Número inteiro): ");
     scanf("%i", &populacaoCarta1);
@@ -51,10 +51,10 @@ int main()
     scanf(" %c", &estadoCarta2);
     
     printf("Código (número de 01 a 04): ");
-    scanf("%s", &codigoCarta2);
+    scanf("%s", codigoCarta2);
     
     printf("Digite o nome da cidade (Sem espaços em branco)");
-    scanf("%s", &nomeCidadeCarta2);
+    scanf("%s", nomeCidadeCarta2);
     
     printf("População (Número inteiro): ");
     scanf("%i", &populacaoCarta2);
