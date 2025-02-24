@@ -66,11 +66,11 @@ int main()
         }
         else if (populacaoCarta1 < populacaoCarta2)
         {
-            printf("----- Carta 2 (%s) Venceu! -----", nomeCidadeCarta2);
+            printf("----- Carta 2 (%s) Venceu! -----\n\n", nomeCidadeCarta2);
         }
         else
         {
-            printf("----- Empatou! -----");
+            printf("----- Empatou! -----\n\n");
         }
 
         break;
@@ -86,11 +86,11 @@ int main()
         }
         else if (areaCarta1 < areaCarta2)
         {
-            printf("----- Carta 2 (%s) Venceu! -----", nomeCidadeCarta2);
+            printf("----- Carta 2 (%s) Venceu! -----\n\n", nomeCidadeCarta2);
         }
         else
         {
-            printf("----- Empatou! -----");
+            printf("----- Empatou! -----\n\n");
         }
 
         break;
@@ -106,11 +106,11 @@ int main()
         }
         else if (pibCarta1 < pibCarta2)
         {
-            printf("----- Carta 2 (%s) Venceu! -----", nomeCidadeCarta2);
+            printf("----- Carta 2 (%s) Venceu! -----\n\n", nomeCidadeCarta2);
         }
         else
         {
-            printf("----- Empatou! -----");
+            printf("----- Empatou! -----\n\n");
         }
 
         break;
@@ -126,11 +126,11 @@ int main()
         }
         else if (pontosTuristicosCarta1 < pontosTuristicosCarta2)
         {
-            printf("----- Carta 2 (%s) Venceu! -----", nomeCidadeCarta2);
+            printf("----- Carta 2 (%s) Venceu! -----\n\n", nomeCidadeCarta2);
         }
         else
         {
-            printf("----- Empatou! -----");
+            printf("----- Empatou! -----\n\n");
         }
 
         break;
@@ -146,11 +146,11 @@ int main()
         }
         else if (densidadePopulacionalCarta1 > densidadePopulacionalCarta2)
         {
-            printf("----- Carta 2 (%s) Venceu! -----", nomeCidadeCarta2);
+            printf("----- Carta 2 (%s) Venceu! -----\n\n", nomeCidadeCarta2);
         }
         else
         {
-            printf("----- Empatou! -----");
+            printf("----- Empatou! -----\n\n");
         }
 
         break;
